@@ -1,0 +1,12 @@
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\bin\Debug\net6.0\ArtSale.Application.deps.json
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\bin\Debug\net6.0\ArtSale.Application.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\bin\Debug\net6.0\ArtSale.Application.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.csproj.AssemblyReference.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.AssemblyInfoInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.AssemblyInfo.cs
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.csproj.CoreCompileInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\refint\ArtSale.Application.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ArtSale.Application.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Core\ArtSale.Application\obj\Debug\net6.0\ref\ArtSale.Application.dll

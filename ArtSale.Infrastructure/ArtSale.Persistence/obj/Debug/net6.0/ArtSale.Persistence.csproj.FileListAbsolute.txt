@@ -1,0 +1,12 @@
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\bin\Debug\net6.0\ArtSale.Persistence.deps.json
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\bin\Debug\net6.0\ArtSale.Persistence.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\bin\Debug\net6.0\ArtSale.Persistence.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.csproj.AssemblyReference.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.AssemblyInfoInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.AssemblyInfo.cs
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\refint\ArtSale.Persistence.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ArtSale.Persistence.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Persistence\obj\Debug\net6.0\ref\ArtSale.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\bin\Debug\net6.0\ArtSale.Infrastructure.deps.json
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\bin\Debug\net6.0\ArtSale.Infrastructure.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\bin\Debug\net6.0\ArtSale.Infrastructure.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.AssemblyInfo.cs
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\refint\ArtSale.Infrastructure.dll
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ArtSale.Infrastructure.pdb
+C:\Users\javid.ibrahimli\Desktop\ArtSale\ArtSale.Infrastructure\ArtSale.Infrastructure\obj\Debug\net6.0\ref\ArtSale.Infrastructure.dll
